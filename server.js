@@ -4,7 +4,7 @@
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: Shreya -    Student ID: 129778221   Date: Dec 5th, 2023
+*  Name: Shreya   Student ID: 129778221   Date: Dec 5th, 2023
 *
 *  Online (Cyclic) URL: https://aggressive-ray-dress.cyclic.app/
 *
